@@ -1,0 +1,16 @@
+{
+    "commands":[{
+        "name":"help",
+        "value":"affiche la liste des commandes"        
+    },
+    {
+        "name":"ping",
+        "value":"affiche le délais de réponse du bot"  
+    },
+    {
+        "titre":"avatar",
+        "value":"renvoie l'url de l'avatar appartenant à l'utilisateur ayant effectué la commande"
+    }
+]
+    
+}
